@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\window.cc">
+      <Filter>display</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\model.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\renderdevice.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\shaderresource.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\textureresource.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\lightserver.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\cameramanager.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\debugrender.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\grid.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\physics.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\particlesystem.cc">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\gamepad.cc">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\inputserver.cc">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\key.cc">
+      <Filter>input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\config.cc">
+      <Filter>pch</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\window.h">
+      <Filter>display</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\model.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\renderdevice.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\shaderresource.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\textureresource.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\lightserver.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\cameramanager.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\debugrender.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\grid.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\lightsources.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\physics.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\resourceid.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\particlesystem.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\stb_image.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\stb_image_write.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\json.hpp">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\gltf.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\gamepad.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\inputserver.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\key.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\keyboard.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\input\mouse.h">
+      <Filter>input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\config.h">
+      <Filter>pch</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\render\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="display">
+      <UniqueIdentifier>{3C6BF1C4-B256-3EF3-AA6A-F0B69DF8AE58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="input">
+      <UniqueIdentifier>{6434B56F-A356-3EF4-8E83-CC28834898E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pch">
+      <UniqueIdentifier>{E87F7B1E-32E9-31F6-8593-3ADC435330C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render">
+      <UniqueIdentifier>{792A3986-1867-3CBE-874C-C8A00818F06F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

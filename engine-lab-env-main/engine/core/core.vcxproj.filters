@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\app.cc">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\debug.cc">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\random.cc">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\cvar.cc">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\config.cc">
+      <Filter>pch</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\app.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\debug.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\random.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\cvar.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\idpool.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\memorysystem.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\arenaallocator.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\config.h">
+      <Filter>pch</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\engine\core\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="core">
+      <UniqueIdentifier>{0872C88C-281E-3C59-96FF-5B2E8D8ACF0E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pch">
+      <UniqueIdentifier>{E87F7B1E-32E9-31F6-8593-3ADC435330C4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\glew\src\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\glew\include\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\glew\include\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\glew\include\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\glew\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D041D4E1-66EE-3977-B1D9-C88EC4F9A4DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0CE68B42-A793-388E-9E39-F120591DB167}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

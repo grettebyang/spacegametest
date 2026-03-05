@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Launching spacegame..."
+
+./spacegame.exe server &
+./spacegame.exe client &
+
+echo "Closing server and client(s)"

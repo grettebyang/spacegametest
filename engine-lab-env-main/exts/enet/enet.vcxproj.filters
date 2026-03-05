@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\callbacks.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\compress.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\host.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\list.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\packet.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\peer.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\protocol.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\unix.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\win32.c">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\callbacks.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\enet.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\list.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\protocol.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\time.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\types.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\unix.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\utility.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\include\enet\win32.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\enet\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{167E957E-2EC1-33FC-8EDA-4A21CE8F7C68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{F67DF67B-324D-3D06-AA78-B8C722F59116}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

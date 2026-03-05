@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_impl_glfw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_impl_opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_impl_opengl3_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imgui_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imstb_rectpack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imstb_textedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\imgui\imstb_truetype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\exts\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D041D4E1-66EE-3977-B1D9-C88EC4F9A4DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0CE68B42-A793-388E-9E39-F120591DB167}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

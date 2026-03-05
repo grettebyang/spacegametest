@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug"/>
+		<BuildType Name="Release"/>
+		<BuildType Name="MinSizeRel"/>
+		<BuildType Name="RelWithDebInfo"/>
+		<Platform Name="x64"/>
+	</Configurations>
+	<Project Path="projects/spacegame/spacegame.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="ab0779c2-6ab8-317d-92b5-528c0b75954f">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="engine/core/core.vcxproj"/>
+		<BuildDependency Project="exts/enet/enet.vcxproj"/>
+		<BuildDependency Project="exts/glew/glew.vcxproj"/>
+		<BuildDependency Project="exts/glfw/src/glfw.vcxproj"/>
+		<BuildDependency Project="exts/glm/glm_static.vcxproj"/>
+		<BuildDependency Project="exts/imgui.vcxproj"/>
+		<BuildDependency Project="exts/soloud/contrib/soloud.vcxproj"/>
+	</Project>
+	<Folder Name="/CMakePredefinedTargets/">
+		<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="640e5251-da4a-35c6-9205-8cbb608a166e" DefaultStartup="true">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<BuildDependency Project="engine/core/core.vcxproj"/>
+			<BuildDependency Project="exts/enet/enet.vcxproj"/>
+			<BuildDependency Project="exts/glew/glew.vcxproj"/>
+			<BuildDependency Project="exts/glfw/src/glfw.vcxproj"/>
+			<BuildDependency Project="exts/glm/glm_static.vcxproj"/>
+			<BuildDependency Project="exts/imgui.vcxproj"/>
+			<BuildDependency Project="exts/soloud/contrib/soloud.vcxproj"/>
+			<BuildDependency Project="projects/spacegame/spacegame.vcxproj"/>
+		</Project>
+		<Project Path="INSTALL.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="db70c40a-90f7-3d1a-84a1-a408785f61e3">
+			<BuildDependency Project="ALL_BUILD.vcxproj"/>
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<Build Solution="Debug|*" Project="false"/>
+			<Build Solution="Release|*" Project="false"/>
+			<Build Solution="MinSizeRel|*" Project="false"/>
+			<Build Solution="RelWithDebInfo|*" Project="false"/>
+		</Project>
+		<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="57523ffe-6f4a-3a1f-98d0-02c7fccd2c6e"/>
+	</Folder>
+	<Folder Name="/engine/">
+		<Project Path="engine/core/core.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="df11dbce-dfc3-32a5-ae11-fb2b9ad5614c">
+			<BuildDependency Project="engine/render/render.vcxproj"/>
+		</Project>
+		<Project Path="engine/render/render.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="f52cae5e-68bd-345c-96c5-a4a604707473">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+			<BuildDependency Project="exts/enet/enet.vcxproj"/>
+			<BuildDependency Project="exts/glew/glew.vcxproj"/>
+			<BuildDependency Project="exts/glfw/src/glfw.vcxproj"/>
+			<BuildDependency Project="exts/glm/glm_static.vcxproj"/>
+			<BuildDependency Project="exts/imgui.vcxproj"/>
+			<BuildDependency Project="exts/soloud/contrib/soloud.vcxproj"/>
+		</Project>
+	</Folder>
+	<Folder Name="/exts/"/>
+	<Folder Name="/exts/enet/">
+		<Project Path="exts/enet/enet.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="2f031cef-7e88-3605-be75-2efa635603e7">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+	</Folder>
+	<Folder Name="/exts/glew/">
+		<Project Path="exts/glew/glew.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="e4859983-a0c0-36e1-96a1-d44e4aba339f">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+	</Folder>
+	<Folder Name="/exts/glfw/">
+		<Project Path="exts/glfw/src/glfw.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="616e7d4e-12f3-328b-b03e-309b14bacde7">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+	</Folder>
+	<Folder Name="/exts/glm/">
+		<Project Path="exts/glm/glm_static.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="f0fd6f96-51e2-3050-9932-8e8d671e083f">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+	</Folder>
+	<Folder Name="/exts/imgui/">
+		<Project Path="exts/imgui.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="cfc05df9-2e03-3a67-abd0-3f73bc49e9b6">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+	</Folder>
+	<Folder Name="/exts/soloud/">
+		<Project Path="exts/soloud/contrib/soloud.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="67e65247-2c7a-35cb-969d-da91b8753229">
+			<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		</Project>
+	</Folder>
+</Solution>

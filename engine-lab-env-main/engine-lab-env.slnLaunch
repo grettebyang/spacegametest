@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "New Profile (2)",
+    "Projects": [
+      {
+        "Path": "projects\\spacegame\\spacegame.vcxproj",
+        "Action": "Start",
+        "DebugTarget": "Local Windows Debugger"
+      }
+    ]
+  }
+]

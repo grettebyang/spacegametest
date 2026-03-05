@@ -1,0 +1,13 @@
+
+
+struct Vec3 {
+	x:float;
+	y:float;
+	z:float;
+}
+
+table Ship {
+	pos:Vec3;
+	//respawn:bool;
+
+}
