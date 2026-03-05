@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\componentbase.cc">
+      <Filter>spacegameserver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\entity.cc">
+      <Filter>spacegameserver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\main.cc">
+      <Filter>spacegameserver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\spacegameapp.cc">
+      <Filter>spacegameserver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\spaceship.cc">
+      <Filter>spacegameserver</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\world.cc">
+      <Filter>spacegameserver</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\componentbase.h">
+      <Filter>spacegameserver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\entity.h">
+      <Filter>spacegameserver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\entitypool.h">
+      <Filter>spacegameserver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\spacegameapp.h">
+      <Filter>spacegameserver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\spaceship.h">
+      <Filter>spacegameserver</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\code\world.h">
+      <Filter>spacegameserver</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\grett\LTU\Second Year\Game Engine Architecture\w0047e-assignment-3-multiplayer-grettebyang\engine-lab-env-main\projects\spacegameserver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="spacegameserver">
+      <UniqueIdentifier>{4335825A-0BE4-327D-8B14-9BE49D517CB1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

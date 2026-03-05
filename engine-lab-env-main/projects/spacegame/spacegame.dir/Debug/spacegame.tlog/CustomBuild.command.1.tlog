@@ -1,0 +1,10 @@
+^C:\USERS\GRETT\LTU\SECOND YEAR\GAME ENGINE ARCHITECTURE\W0047E-ASSIGNMENT-3-MULTIPLAYER-GRETTEBYANG\ENGINE-LAB-ENV-MAIN\PROJECTS\SPACEGAME\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/grett/LTU/Second Year/Game Engine Architecture/w0047e-assignment-3-multiplayer-grettebyang/engine-lab-env-main" "-BC:/Users/grett/LTU/Second Year/Game Engine Architecture/w0047e-assignment-3-multiplayer-grettebyang/engine-lab-env-main" --check-stamp-file "C:/Users/grett/LTU/Second Year/Game Engine Architecture/w0047e-assignment-3-multiplayer-grettebyang/engine-lab-env-main/projects/spacegame/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
